@@ -38,7 +38,8 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://www.gitkraken.com/wp-content/uploads/2021/06/gitkraken-logo-dark-sq.png" alt="gitkraken" width="40" height="40"/> </a> 
-<a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://www.gitkraken.com/wp-content/uploads/2021/06/gitkraken-logo-dark-sq.png" alt="gitkraken" width="40" height="40"/> </a> 
+<a href="https://developer.android.com/about" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="androidStudio" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="visualstudio" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=motsios&show_icons=true&locale=en&layout=compact" alt="motsios" /></p>
