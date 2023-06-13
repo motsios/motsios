@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/motsios?tab=repositories](https://github.com/motsios?tab=repositories)
 
 - 📫 How to reach me:
-<a href="mailto:www.motsios@hotmail.com" target="blank"><img align="center" src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/O5LQNZZBXJGE3FN5AC6RBPQB5Y.png" height="30" width="40" /></a>
+<a href="mailto:www.motsios@hotmail.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/794/124/png-clipart-white-and-blue-application-logo-microsoft-outlook-outlook-com-hotmail-email-microsoft-blue-angle-thumbnail.png" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
