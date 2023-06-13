@@ -10,7 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/motsios?tab=repositories](https://github.com/motsios?tab=repositories)
 
 - 📫 How to reach me:
-<a href="mailto:www.motsios@hotmail.com" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.infobae.com%2Ftecno%2F2022%2F10%2F19%2Foutlook-lite-es-la-aplicacion-del-correo-de-microsoft-para-celulares-gama-baja%2F&psig=AOvVaw3Y6myzjIP7oLkq_bH7CvYq&ust=1686739933170000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPD4rYKKwP8CFQAAAAAdAAAAABA1" height="30" width="40" /></a>
+<a href="mailto:www.motsios@hotmail.com" target="blank"><img align="center" src="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/O5LQNZZBXJGE3FN5AC6RBPQB5Y.png" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
