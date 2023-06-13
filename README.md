@@ -9,7 +9,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/motsios?tab=repositories](https://github.com/motsios?tab=repositories)
 
-- 📫 How to reach me **www.motsios@hotmail.com**
+- 📫 How to reach me 
+<a href="mailto:www.motsios@hotmail.com" target="blank"><img src="https://w7.pngwing.com/pngs/903/849/png-transparent-microsoft-outlook-outlook-com-email-outlook-on-the-web-hotmail-email-miscellaneous-blue-angle-thumbnail.png" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
