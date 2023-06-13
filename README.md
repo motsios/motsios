@@ -9,10 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/motsios?tab=repositories](https://github.com/motsios?tab=repositories)
 
-- 📃 Check out my Udemy Certifications here: 
+- 📃 Check out my Udemy Certifications here 
 <a href="https://www.linkedin.com/in/dimitris-motsios-7755a21b2/details/certifications/" target="blank"><img align="center" src="https://pbs.twimg.com/profile_images/1415325668787855361/nxZY4zVv_400x400.png" height="30" width="40" /></a>
 
-- 📫 How to reach me:
+- 📫 How to reach me
 <a href="mailto:www.motsios@hotmail.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/794/124/png-clipart-white-and-blue-application-logo-microsoft-outlook-outlook-com-hotmail-email-microsoft-blue-angle-thumbnail.png" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
